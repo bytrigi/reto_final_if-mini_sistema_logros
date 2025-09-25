@@ -1,4 +1,4 @@
-# 🎮 Reto Final – Mini sistema de logros (multijuego)
+# 🎮 Reto Final If – Mini sistema de logros (multijuego)
 
 ## 🎯 Objetivo
 Implementar un sistema que, a partir de estadísticas de una partida, **calcule y muestre los logros desbloqueados** por el jugador.
